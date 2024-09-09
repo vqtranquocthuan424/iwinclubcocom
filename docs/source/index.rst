@@ -1,22 +1,16 @@
-Welcome to Lumache's documentation!
+iWin Club - Điểm Đến Hoàn Hảo Cho Game Bài, Thể Thao, Lô Đề, Bắn Cá
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`iWin <https://iwinclub.co.com/>`_ là cổng game cá cược trực tuyến được thành lập bỏi Tập đoàn SJM Holdings. Với tiềm lực hùng hậu thì iWin Club cung cấp đa dạng tựa game cá cược cược như game bài, thể thao, lô đề, bắn cá. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Thông tin liên hệ: 
 
-.. note::
+Địa chỉ: 113 Hoàng Quốc Việt, Nghĩa Tân, Cầu Giấy, Hà Nội, Việt Nam. 100000. 
 
-   This project is under active development.
+Phone: 0981414984. 
 
-Contents
---------
+Email: info@iwinclub.co.com. 
 
-.. toctree::
+Website: https://iwinclub.co.com/
 
-   usage
-   api
+#iwin, #i_win, #iwinclub, #conggameiwin, #conggamebaiiwin, #iwinclubcocom
